@@ -7,3 +7,6 @@ venv/
 # App exports / presets
 *.json
 exports/
+
+# Local-only script variant
+chordo-gem.py
