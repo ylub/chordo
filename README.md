@@ -24,7 +24,6 @@ This project is still a work in progress. Please use GitHub on this repository f
 ## Files
 
 - `chordo-v2.py`: tracked app script in this repository
-- `chordo-gem.py`: local-only variant, excluded from Git tracking
 - `update_chordo.py`: simple Tk-based GitHub updater for this repo
 
 ## Run
