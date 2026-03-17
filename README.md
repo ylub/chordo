@@ -2,6 +2,8 @@
 
 Tkinter chord sequencer experiments for macOS, using `pygame` for audio synthesis.
 
+This project is still a work in progress. Please use GitHub on this repository for suggestions, comments, bug reports, and improvement ideas.
+
 ## Features
 
 - 8-slot chord bank with per-slot editing and color-coded selection
